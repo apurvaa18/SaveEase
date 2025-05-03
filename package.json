@@ -1,0 +1,14 @@
+{
+  "name": "saveease-backend",
+  "version": "1.0.0",
+  "description": "Backend for SaveEase",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {}
+}
